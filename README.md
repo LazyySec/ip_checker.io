@@ -1,6 +1,6 @@
 # ip_checker.io
 
-This tool is used to retrieve information about an originating IP address, this tool uses the ipinfo.io platform
+This tool is used to retrieve information about an IP address, this tool uses the ipinfo.io platform
 
 Due to the limitations of the ipinfo.io token, you need to replace the api token in the source code first before using it
 
